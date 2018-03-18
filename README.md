@@ -8,13 +8,9 @@
 
 
 
-
-
 sphinx +readthedocs+reStructuredText
 
 操作：编辑rst文档==》加入到index文件==》上传到gitlab ==》服务器编译make html ==》生成网页版
 
 缺点：多人协作麻烦，且没有可视化的rst语法工具
-
-
 
