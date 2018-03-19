@@ -14,9 +14,7 @@ sphinx +readthedocs+reStructuredText
 
 优点：对搜索支持的极好
 
-缺点：多人协作麻烦，且没有可视化的rst语法工具
-
-
+缺点：多人协作麻烦，且没有可视化的rst语法工具![](/assets/import.png)
 
 
 
