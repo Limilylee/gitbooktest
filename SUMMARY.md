@@ -21,8 +21,9 @@
     * 漏洞检测
     * 弱密码
     * 对外访问性
-* [amanda-test2](amanda-test2.md)
-* [test0009](test0009.md)
+* windows功能
+  * 资产清点
+  * 风险发现
 
 
 
