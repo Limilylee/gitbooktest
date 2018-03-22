@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [核心平台](he-xin-ping-tai.md)
   * 安全首页
-  * 任务系统
+  * [任务系统](he-xin-ping-tai/ren-wu-xi-tong.md)
 * [Linux功能](linuxgong-neng.md)
   * [资产清点](zi-chan-qing-dian.md)
     * [产品概述](chan-pin-gai-shu.md)
